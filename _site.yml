@@ -1,0 +1,13 @@
+navbar:
+  title: "Barra de navegacion"
+  left:
+    - text: "Boton 1"
+    - text: "Menu"
+      menu:
+        - text: "Ejemplo 1"
+        - text: "------"
+output:
+  html_document:
+    theme: cerulean
+    toc: true
+    toc_float: true
