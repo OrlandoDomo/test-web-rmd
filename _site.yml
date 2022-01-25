@@ -1,7 +1,8 @@
 navbar:
   title: "Barra de navegacion"
   left:
-    - text: "Boton 1"
+    - text: "Difractograma Parametrizado"
+      href: drx-param/hw.html
     - text: "Menu"
       menu:
         - text: "Ejemplo 1"
