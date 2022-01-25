@@ -17,9 +17,9 @@ xaringanExtra::use_panelset()
 ```{r xaringan-tile-view, echo=FALSE}
 xaringanExtra::use_tile_view()
 ```
-
-# Deposicion de peliculas delgadas\
 class: center, middle
+# Deposicion de peliculas delgadas
+
 
 1. Encendido de la bomba mecánica y esperar que haga vacío.
 
@@ -58,9 +58,8 @@ background-image: url("ybco_sem.jpg")
 # Analisis de la muestra
 .panelset[
 .panel[.panel-name[DRX]
-```{r, echo=FALSE, out.width="80%"}
-knitr::include_graphics("ybco_xrd.png")
-```
+
+<img src="ybco_xrd.png" width="80%">
 ]
 
 .panel[.panel-name[EDS]

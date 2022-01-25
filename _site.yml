@@ -3,12 +3,9 @@ navbar:
   left:
     - text: "Difractograma Parametrizado"
       href: drx-param/hw.html
-    - text: "Menu"
+    - text: "Diapos con Xaringan"
       menu:
         - text: "Ejemplo 1"
-        - text: "------"
-output:
-  html_document:
-    theme: cerulean
-    toc: true
-    toc_float: true
+          href: diapos-test/xaringan_test.html
+output: rmdformats::readthedown
+  #  downcute_theme: "chaos"
