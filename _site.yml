@@ -1,3 +1,4 @@
+output_dir: "."
 navbar:
   title: "Barra de navegacion"
   left:
