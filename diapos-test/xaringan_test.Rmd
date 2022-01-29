@@ -42,13 +42,13 @@ sputtering.
 Se depositó YBaCuO en un sustrato de silicio de 2.5cm × 2.5cm
 bajo los siguientes parámetros durante 45 minutos:
 
-1. DC$ V= 25 V $
+1. DC$V= 25 V$
 
 2. I= 300 mA
 
 3. $T_{sus}= 386^{\circ}$ 
 
-4. $P= 1.9 \times 10^{-2} $ mbar
+4. $P= 1.9 \times 10^{-2}$ mbar
 ---
 
 class: center
