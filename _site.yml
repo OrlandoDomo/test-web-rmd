@@ -8,5 +8,6 @@ navbar:
       menu:
         - text: "Ejemplo 1"
           href: diapos-test/xaringan_test.html
-output: rmdformats::readthedown
-  #  downcute_theme: "chaos"
+output: 
+  rmdformats::readthedown:
+    css: fix-readthedown.css
